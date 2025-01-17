@@ -11,5 +11,7 @@ Annotations help developers catch errors early in development by allowing them t
 to a given variable or passed as a argument to a function.
 
 String, number, boolean
+
 // let myVar: type = value()
+
 console.log(myVar)
